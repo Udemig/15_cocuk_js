@@ -129,7 +129,6 @@ switch (kursNumarası) {
   //  kursNumarası 4 ise bu case çalışır
 
   case 4:
-    break;
     document.write("İngilizce Kursu", "<br/>");
     break;
 }
